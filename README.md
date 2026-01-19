@@ -17,8 +17,8 @@ Está desarrollado usando tecnologías modernas y optimizado para rendimiento y 
 
 El sitio fue construido con:
 
-- **React** – Librería UI
-- **Vite** – Bundler ultrarrápido
-- **Tailwind CSS** – Framework de utilidades para diseño
-- **HTML5 & JavaScript** – Fundamentales web
+- **React**
+- **Vite** 
+- **Tailwind CSS**
+- **HTML5 & JavaScript**
 - Desplegado en **Vercel**
