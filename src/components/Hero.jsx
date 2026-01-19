@@ -42,7 +42,7 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.97 }}
-              href="https://online.pubhtml5.com/rmlxq/yzsj/"
+              href="https://online.pubhtml5.com/rmlxq/wipz/"
               download
               className="
                 font-heading bg-white text-violet-700
@@ -89,3 +89,4 @@ export default function Hero() {
     </section>
   );
 }
+
