@@ -22,7 +22,7 @@ export const projects = [
     tech: ["React", "CSS", "Firebase", "Bootstrap"],
     image: proyectoFinalImg,
     github: "https://github.com/belenzar/ProyectoFinal-Zarate",
-    demo: "proyecto-final-zarate.vercel.app/",
+    demo: "https://proyecto-final-zarate.vercel.app/",
   },
   {
     id: 3,
@@ -45,3 +45,4 @@ export const projects = [
     demo: "https://lista-precios-2024.vercel.app/",
   },
 ];
+
