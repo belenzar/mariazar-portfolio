@@ -2,6 +2,8 @@ import batoursImg from "../assets/projects/ba-tours.png";
 import proyectoFinalImg from "../assets/projects/kiddo.png";
 import mealdbImg from "../assets/projects/mealdb.png";
 import priceListImg from "../assets/projects/priceList.png";
+import iaoranamock from "../assets/projects/iaoranamock.png";
+import posada from "../assets/projects/posada.png";
 
 export const projects = [
   {
@@ -44,5 +46,26 @@ export const projects = [
     github: "https://github.com/belenzar/price-list",
     demo: "https://lista-precios-2024.vercel.app/",
   },
+  {
+    id: 5,
+    title: "Iaorana - Sitio web institucional",
+    description:
+      "Sitio institucional desarrollado en WordPress utilizando Elementor Theme Builder. Maquetación completa, definición de estructura visual y optimización SEO on-page, con diseño responsive orientado a la usabilidad.",
+    tech: ["WordPress", "Elementor Theme Builder", "SEO on-page", "Responsive Design"],
+    image: iaoranamock,
+    github: null,
+    demo: "https://iaorana.com.ar/",
+  },
+  {
+    id: 6,
+    title: "Posada de los Lagos – Sitio institucional",
+    description:
+     "Sitio institucional desarrollado en WordPress con Elementor Theme Builder. Maquetación visual completa, estructura de secciones y enfoque responsive, además de optimización SEO básico.",
+    tech: ["WordPress", "Elementor Theme Builder", "SEO on-page", "Responsive Design"],
+    image: posada,
+    github: null,
+    demo: "https://posadadeloslagos.lader.com.ar/",
+  },
 ];
+
 
