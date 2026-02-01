@@ -34,7 +34,7 @@ export default function Hero() {
           </h2>
 
           <p className="font-body mt-6 text-lg text-white/90 leading-relaxed max-w-xl">
-Desarrollo soluciones frontend con React y Tailwind, y sitios WordPress personalizados, con foco en UX, usabilidad, diseño responsive y buenas prácticas.
+Desarrollo soluciones frontend con React, Tailwind, y sitios WordPress personalizados, con foco en UX, usabilidad, diseño responsive y buenas prácticas.
           </p>
 
           <div className="flex gap-4 mt-8 flex-wrap">
@@ -88,5 +88,6 @@ Desarrollo soluciones frontend con React y Tailwind, y sitios WordPress personal
     </section>
   );
 }
+
 
 
