@@ -30,11 +30,11 @@ export default function Hero() {
           </h1>
 
           <h2 className="font-heading text-2xl md:text-3xl font-semibold mt-4">
-            Frontend Developer
+            Front-End Developer
           </h2>
 
           <p className="font-body mt-6 text-lg text-white/90 leading-relaxed max-w-xl">
-Desarrollo soluciones frontend con React, Tailwind, y sitios WordPress personalizados, con foco en UX, usabilidad, diseño responsive y buenas prácticas.
+Desarrollo soluciones Front-End con React, Tailwind, y sitios WordPress personalizados, con foco en UX, usabilidad, diseño responsive y buenas prácticas.
           </p>
 
           <div className="flex gap-4 mt-8 flex-wrap">
@@ -88,6 +88,7 @@ Desarrollo soluciones frontend con React, Tailwind, y sitios WordPress personali
     </section>
   );
 }
+
 
 
 
