@@ -72,12 +72,13 @@ export const projects = [
     title: "¿Apagué?",
     description:
      "App mobile-first desarrollada en React para verificar tareas importantes antes de salir de casa.",
-    tech: ["React", "Responsive", "Mobile-first UI"],
+    tech: ["React", "Responsive", "Mobile-first UI", "PWA"],
     image: apague,
     github: "https://github.com/belenzar/apague-app",
     demo: "https://apague-app.vercel.app/",
   },
 ];
+
 
 
 
