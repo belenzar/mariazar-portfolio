@@ -41,7 +41,7 @@ Desarrollo soluciones Front-End con React, Tailwind, y sitios WordPress personal
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.97 }}
-              href="https://online.pubhtml5.com/rmlxq/wipz/"
+              href="https://online.pubhtml5.com/rmlxq/nbqn/"
               download
               className="
                 font-heading bg-white text-violet-700
@@ -88,6 +88,7 @@ Desarrollo soluciones Front-End con React, Tailwind, y sitios WordPress personal
     </section>
   );
 }
+
 
 
 
