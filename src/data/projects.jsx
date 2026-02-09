@@ -4,6 +4,7 @@ import mealdbImg from "../assets/projects/mealdb.png";
 import priceListImg from "../assets/projects/priceList.png";
 import iaoranamock from "../assets/projects/iaoranamock.png";
 import posada from "../assets/projects/posada.png";
+import apague from "../assets/projects/apague.png";
 
 export const projects = [
   {
@@ -66,6 +67,17 @@ export const projects = [
     github: null,
     demo: "https://posadadeloslagos.lader.com.ar/",
   },
+    {
+    id: 7,
+    title: "¿Apagué?",
+    description:
+     "App mobile-first desarrollada en React para verificar tareas importantes antes de salir de casa.",
+    tech: ["React", "Responsive", "Mobile-first UI"],
+    image: apague,
+    github: "https://github.com/belenzar/apague-app",
+    demo: "https://apague-app.vercel.app/",
+  },
 ];
+
 
 
